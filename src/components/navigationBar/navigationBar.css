@@ -1,0 +1,26 @@
+.navigation-bar-container {
+    width: 100vw;
+    align-items: center;
+    display: flex;
+}
+.navigation-bar-title{
+    color: white;
+    align-items: center;
+    display: flex;
+
+}
+.navigation-bar-title:hover{
+    color: white;
+    opacity: 0.6;
+}
+.navigation-bar-title-text{
+    margin-left: 10px;
+    
+}
+.navigation-bar-search{
+}
+.navigation-bar-form{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
